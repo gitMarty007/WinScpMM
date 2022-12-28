@@ -1,0 +1,13 @@
+F:\Progetti\git_repo\WinScpMM\WinScpMM\bin\Debug\WinSCP.exe
+F:\Progetti\git_repo\WinScpMM\WinScpMM\bin\Debug\WinScpMM.exe.config
+F:\Progetti\git_repo\WinScpMM\WinScpMM\bin\Debug\WinScpMM.exe
+F:\Progetti\git_repo\WinScpMM\WinScpMM\bin\Debug\WinScpMM.pdb
+F:\Progetti\git_repo\WinScpMM\WinScpMM\bin\Debug\WinSCPnet.dll
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.csproj.AssemblyReference.cache
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.FormWinScpSync.resources
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.Properties.Resources.resources
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.csproj.GenerateResource.cache
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.csproj.CoreCompileInputs.cache
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.csproj.CopyComplete
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.exe
+F:\Progetti\git_repo\WinScpMM\WinScpMM\obj\Debug\WinScpMM.pdb
